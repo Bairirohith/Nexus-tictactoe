@@ -1,18 +1,24 @@
 # NEXUS — Intelligent Tic-Tac-Toe Arena
 
-> Think. Place. Conquer.
+Think. Place. Conquer.
 
-A modern Tic-Tac-Toe experience featuring intelligent AI,
-smooth animations, player statistics, achievements,
-game replay and leaderboards.
+A modern Tic-Tac-Toe experience featuring AI battles,
+animations, statistics, achievements, game replay
+and leaderboards.
 
 ## Tech Stack
 
+### Frontend
 - React
 - TypeScript
 - Vite
+- Framer Motion
+
+### Backend
 - Node.js
 - Express
+- TypeScript
+
+### Database
 - MySQL
 - Prisma
-- Framer Motion
