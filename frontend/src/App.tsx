@@ -22,3 +22,8 @@ function App() {
 }
 
 export default App;
+import AIBattle from "./pages/AIBattle";
+<Route
+  path="/ai"
+  element={<AIBattle />}
+/>
